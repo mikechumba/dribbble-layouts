@@ -1,0 +1,8 @@
+
+# IDE Settings
+.vscode
+.vscode/*
+
+# Packages
+node_modules
+node_modules/*
